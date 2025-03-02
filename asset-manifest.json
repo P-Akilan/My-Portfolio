@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.377e3b10.css",
+    "main.js": "/My-Portfolio/static/js/main.69d396bd.js",
+    "static/js/787.7da95b79.chunk.js": "/My-Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/annie-spratt-Zxz01pNWGlE-unsplash.jpg": "/My-Portfolio/static/media/annie-spratt-Zxz01pNWGlE-unsplash.263c1829334fa16b3b3d.jpg",
+    "static/media/Atransparent.gif": "/My-Portfolio/static/media/Atransparent.87a3b069da3ab81d28e2.gif",
+    "index.html": "/My-Portfolio/index.html",
+    "main.377e3b10.css.map": "/My-Portfolio/static/css/main.377e3b10.css.map",
+    "main.69d396bd.js.map": "/My-Portfolio/static/js/main.69d396bd.js.map",
+    "787.7da95b79.chunk.js.map": "/My-Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377e3b10.css",
+    "static/js/main.69d396bd.js"
+  ]
+}
